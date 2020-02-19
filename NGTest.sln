@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGTestSequencial", "NGTest\NGTestSequencial.csproj", "{CE7BFC75-B349-4C2A-8D49-956E12102020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGEngine", "NGTestEngine\NGEngine.csproj", "{844D3443-503D-4239-BE42-C5DDF5087622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGSequence", "NGTestSequence\NGSequence.csproj", "{32CF1198-1BFA-41B5-AAF2-E9832B0E9DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGStep", "NGStep\NGStep.csproj", "{93549E1B-AC6F-4DEF-BB06-69C42370B571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTestResource", "RTestResource\RTestResource.csproj", "{0268AA9F-BF06-4263-81B8-A644091520A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGTestParallel", "NGTestParallel\NGTestParallel.csproj", "{2028BE6E-1D39-491C-9489-AFA21A3ADC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGTestSequencialGUI", "NGTestSequencialGUI\NGTestSequencialGUI.csproj", "{0CD49163-DA89-4078-B24A-953B611CBC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7BFC75-B349-4C2A-8D49-956E12102020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7BFC75-B349-4C2A-8D49-956E12102020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7BFC75-B349-4C2A-8D49-956E12102020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7BFC75-B349-4C2A-8D49-956E12102020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844D3443-503D-4239-BE42-C5DDF5087622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844D3443-503D-4239-BE42-C5DDF5087622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844D3443-503D-4239-BE42-C5DDF5087622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844D3443-503D-4239-BE42-C5DDF5087622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CF1198-1BFA-41B5-AAF2-E9832B0E9DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CF1198-1BFA-41B5-AAF2-E9832B0E9DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CF1198-1BFA-41B5-AAF2-E9832B0E9DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CF1198-1BFA-41B5-AAF2-E9832B0E9DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93549E1B-AC6F-4DEF-BB06-69C42370B571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93549E1B-AC6F-4DEF-BB06-69C42370B571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93549E1B-AC6F-4DEF-BB06-69C42370B571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93549E1B-AC6F-4DEF-BB06-69C42370B571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0268AA9F-BF06-4263-81B8-A644091520A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0268AA9F-BF06-4263-81B8-A644091520A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0268AA9F-BF06-4263-81B8-A644091520A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0268AA9F-BF06-4263-81B8-A644091520A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2028BE6E-1D39-491C-9489-AFA21A3ADC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2028BE6E-1D39-491C-9489-AFA21A3ADC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2028BE6E-1D39-491C-9489-AFA21A3ADC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2028BE6E-1D39-491C-9489-AFA21A3ADC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD49163-DA89-4078-B24A-953B611CBC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD49163-DA89-4078-B24A-953B611CBC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD49163-DA89-4078-B24A-953B611CBC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD49163-DA89-4078-B24A-953B611CBC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE36884E-5723-449A-B127-38545C73175E}
+	EndGlobalSection
+EndGlobal
